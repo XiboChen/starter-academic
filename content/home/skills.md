@@ -33,6 +33,8 @@ feature:
   icon_pack: fas
   name: SQL
 
+design:
+column: 4
 
 
 # Uncomment to use emoji icons.

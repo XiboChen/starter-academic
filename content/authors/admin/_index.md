@@ -43,10 +43,10 @@ social:
   link: media/resume.pdf
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/XiboChen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/xibochen/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

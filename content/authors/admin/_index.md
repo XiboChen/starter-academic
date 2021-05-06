@@ -17,7 +17,7 @@ organizations:
 bio: My interests include C/C++, Algorithms and Data Structure.
 
 # Interests to show in About widget
-intrests:
+interests:
 - C/C++ Programming
 - Algorithms
 - Data Structure

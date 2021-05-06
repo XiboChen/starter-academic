@@ -7,7 +7,7 @@ url_video: ""
 date: 2021-05-06T22:39:31.034Z
 tags:
   - Concurrent Parallel and Distributed Programming
-external_link: '""'
+external_link: ""
 url_slides: ""
 links:
   - url: https://github.com/XiboChen/myshell

@@ -18,7 +18,7 @@ links:
     icon_pack: fab
     icon: github
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 url_code: ""
 ---

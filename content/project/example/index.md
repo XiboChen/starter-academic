@@ -1,15 +1,14 @@
 ---
-#slides: example
 url_pdf: ""
 title: A Simple Unix Systems Toolkit
-date: 2021-05-06T22:39:31.034Z
+subtitle: Concurrent, Parallel, and Distributed Programming
 summary: ""
 url_video: ""
+date: 2021-05-06T22:39:31.034Z
 tags:
   - Concurrent Parallel and Distributed Programming
-external_link: ""
+external_link: '""'
 url_slides: ""
-subtitle: Concurrent, Parallel, and Distributed Programming
 links:
   - url: https://github.com/XiboChen/myshell
     name: Github Link
@@ -17,7 +16,8 @@ links:
     icon: github
 image:
   caption: ""
-  focal_point: Smart
+  focal_point: TOP
+  filename: bash.png
 url_code: ""
 ---
 **Project Statement**: Develop a simple Unix systems toolkit for process and filesystem management

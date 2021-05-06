@@ -23,18 +23,12 @@ feature:
 - description: Strong Ability
   icon: project-diagram
   icon_pack: fas
-  name: Data Structure
-- description: Strong Ability
-  icon: align-center
-  icon_pack: fas
-  name: Algorithms
+  name: Data Structure & Algorithms
 - description: Enry Level
   icon: database
   icon_pack: fas
   name: SQL
 
-design:
-column: 4
 
 
 # Uncomment to use emoji icons.

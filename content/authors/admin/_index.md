@@ -17,7 +17,7 @@ organizations:
 bio: My interests include C/C++, Algorithms and Data Structure.
 
 # Interests to show in About widget
-skills:
+intrests:
 - C/C++ Programming
 - Algorithms
 - Data Structure
@@ -63,7 +63,7 @@ highlight_name: false
 ---
 Xibo Chen is a energetic and self-motivated computer science master student with extensive programming experience. She has strong foundation in math, data structure, algorithms, and cross-platform coding. Proven ability to produce positive results with a track record of academic and professional success.
 
-Xibo Chen is currently pursuing Master degree in Computer Science. Prior to joining FSU, she got her B.Eng. degree from Computer Science and Technology at Jangsu Normal University in 2019.
+Xibo Chen is currently pursuing Master degree in Computer Science. Prior to joining FSU, she got her B.Eng. degree from Computer Science and Technology at Jiangsu Normal University in 2019.
 
 {{< icon name="envelope" pack="fas" >}} Send Email: <a href="mailto:bli@cs.fsu.edu">xchen@cs.fsu.edu</a>
 

@@ -61,9 +61,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+Xibo Chen is a energetic and self-motivated computer science master student with extensive programming experience. She has strong foundation in math, data structure, algorithms, and cross-platform coding. Proven ability to produce positive results with a track record of academic and professional success.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xibo Chen is currently pursuing Master degree in Computer Science. Prior to joining FSU, she got her B.Eng. degree from Computer Science and Technology at Jangsu Normal University in 2019.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

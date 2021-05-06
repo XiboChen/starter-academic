@@ -1,15 +1,13 @@
 ---
-slides: example
+#slides: example
 url_pdf: ""
 title: A Simple Unix Systems Toolkit
 date: 2021-05-06T22:39:31.034Z
 summary: ""
 url_video: ""
 tags:
-  - Concurrent
-  - Parallel
-  - and Distributed Programming
-external_link: www.xibochen.com
+  - Concurrent Parallel and Distributed Programming
+external_link: ""
 url_slides: ""
 subtitle: Concurrent, Parallel, and Distributed Programming
 links:

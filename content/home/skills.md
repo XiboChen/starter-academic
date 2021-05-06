@@ -28,6 +28,12 @@ feature:
   icon: align-center
   icon_pack: fas
   name: Algorithms
+- description: Enry Level
+  icon: database
+  icon_pack: fas
+  name: SQL
+
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

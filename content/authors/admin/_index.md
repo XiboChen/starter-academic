@@ -66,5 +66,5 @@ Xibo Chen is a energetic and self-motivated computer science master student with
 Xibo Chen is currently pursuing Master degree in Computer Science. Prior to joining FSU, she got her B.Eng. degree from Computer Science and Technology at Jangsu Normal University in 2019.
 
 
-
+Send Email: <a href="mailto:bli@cs.fsu.edu">bli@cs.fsu.edu</a>
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
